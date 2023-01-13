@@ -13,8 +13,4 @@ Medium
 
 Hard
 * Super_washing_machines.py
-<<<<<<< HEAD
 * Orderly_Queue.js
-=======
-* Orderly_Queue.js
->>>>>>> 00611e9e82b56420c7fca7e0b3cac6405f2f0b98
