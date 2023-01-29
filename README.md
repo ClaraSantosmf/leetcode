@@ -2,8 +2,9 @@
 Esse é meu repositório de resolução dos exercícios do LeetCode.
 Aqui a gente tem um requirements.txt para a venv do python. Para rodar os testes, recomendo você instalar. 
 ### Setup
+
 ```
-pip install -r requirements.txt
+    pip install -r requirements.txt
 ```
 
 Easys

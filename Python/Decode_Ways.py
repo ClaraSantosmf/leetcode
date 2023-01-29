@@ -20,10 +20,3 @@ class Solution:
             combinacoes += self.numDecodings(s[i:]) #Chamando na recursão
             i += 1
         return combinacoes
-
-##Teste local
-
-a = Solution()
-print(a.numDecodings("1111"))
-print(a.numDecodings("2101"))
-print(a.numDecodings("11111111111111111111111111111111111111111"))
